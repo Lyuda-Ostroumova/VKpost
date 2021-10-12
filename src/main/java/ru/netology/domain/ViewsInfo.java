@@ -10,5 +10,4 @@ public class ViewsInfo {
     public void setCount(int count) {
         this.count = count;
     }
-
 }
